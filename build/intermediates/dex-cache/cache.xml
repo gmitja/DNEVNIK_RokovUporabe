@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="E:\SOLA\3.letnik\EVOLUCIJSKIALGORITMI\Dnevnik_rokov\app\build\intermediates\exploded-aar\com.android.support\design\23.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="19026d31f5d3ae868db81319671a642be5fbba08">
+        <dex dex="E:\SOLA\3.letnik\EVOLUCIJSKIALGORITMI\Dnevnik_rokov\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-23.1.0_5a464ef982442f8491652b87eea14c0d1bf27b5c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\SOLA\3.letnik\EVOLUCIJSKIALGORITMI\Dnevnik_rokov\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="8c006bac70178fa8b25961bbf538a28509a32f8d">
+        <dex dex="E:\SOLA\3.letnik\EVOLUCIJSKIALGORITMI\Dnevnik_rokov\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_879f70ce575b6c87615cae59dfd0f19561ff3a72\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\mitja\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.6.2\f1bc476cc167b18e66c297df599b2377131a8947\gson-2.6.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="f1bc476cc167b18e66c297df599b2377131a8947">
+        <dex dex="E:\SOLA\3.letnik\EVOLUCIJSKIALGORITMI\Dnevnik_rokov\app\build\intermediates\transforms\dex\debug\folders\1000\10\gson-2.6.2_5bde8f82506e9df80bbf354d44555acd32004b1a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\mitja\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.4.0\support-annotations-23.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="E:\SOLA\3.letnik\EVOLUCIJSKIALGORITMI\Dnevnik_rokov\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.4.0_c753a1dd49d3f27963b07b42c874abdfb55b1a17\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\SOLA\3.letnik\EVOLUCIJSKIALGORITMI\Dnevnik_rokov\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="E:\SOLA\3.letnik\EVOLUCIJSKIALGORITMI\Dnevnik_rokov\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-23.4.0_8d616e87ee4d2c768cb61ce98617bb0537c3784b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\SOLA\3.letnik\EVOLUCIJSKIALGORITMI\Dnevnik_rokov\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="ec75036c3c52e451d0cde50a5aedaf5fd32354a0">
+        <dex dex="E:\SOLA\3.letnik\EVOLUCIJSKIALGORITMI\Dnevnik_rokov\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-23.4.0_e49b7b12b7cdfca60b18bc04e69697d1247da1a3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\SOLA\3.letnik\EVOLUCIJSKIALGORITMI\Dnevnik_rokov\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\libs\internal_impl-23.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="E:\SOLA\3.letnik\EVOLUCIJSKIALGORITMI\Dnevnik_rokov\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.4.0_d2bbdf4fe2c2177d94752d33f71b1822b72ba775\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\SOLA\3.letnik\EVOLUCIJSKIALGORITMI\Dnevnik_rokov\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="613bfdea5eed499da8d1a48a3a1222172cd36c9e">
+        <dex dex="E:\SOLA\3.letnik\EVOLUCIJSKIALGORITMI\Dnevnik_rokov\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_b09b0c72ae9591fa60e1b09e3072b79679c13f95\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\SOLA\3.letnik\EVOLUCIJSKIALGORITMI\Dnevnik_rokov\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="E:\SOLA\3.letnik\EVOLUCIJSKIALGORITMI\Dnevnik_rokov\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-23.4.0_9230190a8463c52098badde66569f29b0410628c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\SOLA\3.letnik\EVOLUCIJSKIALGORITMI\Dnevnik_rokov\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="E:\SOLA\3.letnik\EVOLUCIJSKIALGORITMI\Dnevnik_rokov\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-23.4.0_05b66ca60b02ddb7976c8ed65c1bba95bd462a38\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\SOLA\3.letnik\EVOLUCIJSKIALGORITMI\Dnevnik_rokov\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="E:\SOLA\3.letnik\EVOLUCIJSKIALGORITMI\Dnevnik_rokov\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-23.4.0_7766fe0d70e8208cfd2d2f9881f48d3ff0112c32\classes.dex" />
+    </item>
+
+</items>

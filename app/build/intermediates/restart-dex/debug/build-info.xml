@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="armeabi-v7a,armeabi"
+    api-level="23"
+    density="xxhdpi"
+    format="8"
+    plugin-version="2.2.3"
+    timestamp="123316507053502"
+    token="-1118977857551321862"
+    verifier="FULL_BUILD_REQUESTED" >
+
+    <task
+        name="javac"
+        duration="240" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="49" />
+    <task
+        name="verifier"
+        duration="2" />
+
+    <artifact
+        location="E:\SOLA\3.letnik\EVOLUCIJSKIALGORITMI\Dnevnik_rokov\app\build\outputs\apk\app-debug.apk"
+        type="MAIN" />
+
+    <build
+        timestamp="123316507053502"
+        verifier="FULL_BUILD_REQUESTED" >
+        <artifact
+            location="E:\SOLA\3.letnik\EVOLUCIJSKIALGORITMI\Dnevnik_rokov\app\build\outputs\apk\app-debug.apk"
+            type="MAIN" />
+    </build>
+
+</instant-run>

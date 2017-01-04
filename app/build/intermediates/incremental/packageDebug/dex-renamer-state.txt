@@ -1,0 +1,7 @@
+#Wed Dec 07 21:36:47 CET 2016
+base.0=E\:\\SOLA\\3.letnik\\EVOLUCIJSKIALGORITMI\\Dnevnik_rokov\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_879f70ce575b6c87615cae59dfd0f19561ff3a72
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=E\:\\SOLA\\3.letnik\\EVOLUCIJSKIALGORITMI\\Dnevnik_rokov\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_b09b0c72ae9591fa60e1b09e3072b79679c13f95\\classes.dex
+base.1=E\:\\SOLA\\3.letnik\\EVOLUCIJSKIALGORITMI\\Dnevnik_rokov\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_b09b0c72ae9591fa60e1b09e3072b79679c13f95
+file.0=E\:\\SOLA\\3.letnik\\EVOLUCIJSKIALGORITMI\\Dnevnik_rokov\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_879f70ce575b6c87615cae59dfd0f19561ff3a72\\classes.dex
