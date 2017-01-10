@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_main"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="#90d8ec"
+    tools:context="com.example.mitjag.dnevnik_rokov.Animation_dnevnik">
+    <ImageView
+
+        android:layout_width="match_parent"
+        android:layout_height="200dp"
+        android:id="@+id/koledar"
+        android:visibility="invisible"
+        android:layout_marginTop="10dp" />
+    <ImageView
+        android:layout_width="80dp"
+        android:layout_height="120dp"
+        android:id="@+id/coca"
+        android:rotationY="10"
+        android:layout_marginLeft="145dp"
+        android:visibility="invisible"
+        android:layout_marginTop="340dp" />
+    />
+
+
+
+    <ImageView
+
+        android:layout_width="100dp"
+        android:layout_height="116dp"
+        android:id="@+id/twix"
+        android:layout_marginLeft="145dp"
+        android:visibility="invisible"
+        android:layout_marginTop="343dp" />
+
+    <ImageView
+
+        android:layout_width="80dp"
+        android:layout_height="120dp"
+        android:id="@+id/chio"
+        android:layout_marginLeft="88dp"
+        android:visibility="invisible"
+        android:layout_marginTop="352dp" />
+    <ImageView
+
+        android:layout_width="100dp"
+        android:layout_height="116dp"
+        android:id="@+id/snicker"
+        android:layout_marginLeft="105dp"
+        android:visibility="invisible"
+        android:layout_marginTop="392dp" />
+
+
+
+    <ImageView
+        android:layout_width="200dp"
+        android:layout_height="200dp"
+        android:id="@+id/vozicek"
+        android:layout_marginTop="200dp"
+        android:layout_gravity="center"
+        android:visibility="invisible"
+        />
+
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/txt"
+        android:layout_gravity="center"
+        android:visibility="invisible"
+        android:textStyle="bold"
+        android:textSize="55dp"
+        android:fontFamily="sans-serif"
+        android:text="Dnevnik rokov uporabe"
+        android:transformPivotX="50pt"
+        android:textColor="@color/colortext"
+        android:textColorHint="@color/colorPrimary"
+        android:textAlignment="center"/>
+</FrameLayout>
+
